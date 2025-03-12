@@ -1,5 +1,3 @@
-# Go LeetCode Solutions Guidelines
-
 ## Build & Test Commands
 - Build: `go build ./...`
 - Run tests: `go test ./...`
